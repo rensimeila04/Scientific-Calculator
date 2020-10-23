@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalSc</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello SoulMath!</string>
+    <string name="slide_1_desc">Selamat datang di Calsc\nCalculator Scient Terbaik</string>
+
+    <string name="slide_2_title">Count Math</string>
+    <string name="slide_2_desc">Menghitung Matematika dengan cepat dan mudah</string>
+
+    <string name="slide_3_title">Fitur Terupdate</string>
+    <string name="slide_3_desc">Nikmati sensasi menghitung dengan mudah</string>
+
+    <string name="slide_4_title">Coba Sekarang!</string>
+    <string name="slide_4_desc">Coba Sekarang dan nikmati fiturnya!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
